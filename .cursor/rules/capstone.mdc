@@ -5,7 +5,7 @@ alwaysApply: true
 
 # capstone_flyrankAI
 
-- This is Pranesh Chandrasekhar's FlyRank AI internship capstone.
+- This is Pranesh's FlyRank AI internship capstone.
 - Stack: Node.js LTS, Git, Cursor, TypeScript. Use Python only when a later phase needs it.
 - Commits must use Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`, `refactor:`, `test:`).
 - Do not commit secrets, `.env` files, or `node_modules`.
