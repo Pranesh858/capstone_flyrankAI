@@ -5,7 +5,7 @@ This file is for Cursor and other AI coding assistants. Follow it for every chan
 ## Project
 
 - Name: `capstone_flyrankAI`
-- Owner: Pranesh Chandrasekhar
+- Owner: Pranesh 
 - Purpose: FlyRank AI internship capstone — AI-assisted development as the core skill, then a public portfolio artifact.
 
 ## Stack
